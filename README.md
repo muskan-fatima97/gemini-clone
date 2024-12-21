@@ -1,6 +1,5 @@
-# React + Vite
 
-Gemini Clone 🌟
+# Gemini Clone 🌟
 The Gemini Clone is a modern web application built with React.js, replicating the sleek design and functionality of the Gemini platform. This project highlights my expertise in creating dynamic, responsive, and performance-optimized web applications, with clean design, intuitive interfaces, and modular code.
 
 ✨ Features
